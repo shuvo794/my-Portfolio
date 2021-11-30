@@ -318,13 +318,13 @@ section .title::after{
 .feedback .title::before{
     background: #111;
 }
-.services .title::after{
+/* .services .title::after{
     background: none;
     content: "what i do";
-}
-.blog .title::after{
+} */
+/* .blog .title::after{
     content: "what i think";  
-}
+} */
 .project .title::after{
     background: none;
     content: "i've completed";
